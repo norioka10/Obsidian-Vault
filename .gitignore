@@ -1,0 +1,14 @@
+# 現役vault（iCloud）へのsymlink — 実体はObsidianNOkada側のgitで管理
+ObsidianNOkada
+
+# Obsidian設定・プラグイン（APIキーを含み得るため除外）
+.obsidian/
+
+# 再生成可能な索引・ベクタDB
+.second-brain/
+.smtcmp_json_db/
+.smtcmp_vector_db.tar.gz
+
+# システム・一時
+.DS_Store
+.trash/
