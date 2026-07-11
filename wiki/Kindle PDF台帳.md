@@ -1,7 +1,7 @@
 ---
 type: operations
 created: 2026-06-17
-updated: 2026-06-29
+updated: 2026-07-05
 tags: [書籍, Kindle, 台帳, 第二の脳]
 ---
 
@@ -14,13 +14,13 @@ Kindle PDFと読書Wikiを「第二の脳」として運用するための管理
 
 | 項目 | 状態 |
 | --- | --- |
-| Kindle PDF | 70件 |
+| Kindle PDF | 73件 |
 | 要約＆概念マップ | 全PDF分作成済み |
 | 主要入口 | [[wiki/index]], [[wiki/hot]], [[問いインデックス]] |
 | 概念入口 | [[概念/概念インデックス]] |
 | ローカル索引 | `.second-brain/second_brain.sqlite`（OCR全文込みで更新済み） |
 | 機械台帳 | `.second-brain/kindle_pdf_inventory.csv` |
-| OCR全文 | 70冊完了、失敗0件 |
+| OCR全文 | 73冊完了、失敗0件 |
 | OCR品質確認 | [[OCR品質確認ノート]] |
 | 次の重点 | `public-info-based` ページの原典OCR再確認、概念ハブの拡張 |
 
