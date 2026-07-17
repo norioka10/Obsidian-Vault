@@ -8,6 +8,8 @@
 
 ## 操作ログ
 
+- 2026-07-16 ingest | Claude Code Artifacts × MCPコネクタ（技術メモ）。原文参照 `.raw/articles/claude-code-artifacts-mcp-2026-07-16.md`（公式 docs）。新規 [[Claude Code Artifacts × MCPコネクタ]]。[[概念/AI協働]]・[[やさしいMCP入門 要約＆概念マップ]] に双方向リンク。index 運用ページ4→5、hot 更新。Key insight: 公開後のライブ呼び出しは claude.ai コネクタのみ／ローカル Plaud は構築時のみ。
+
 - 2026-06-29 organize | OCR完了後の第二の脳メンテ。[[Kindle PDF台帳]] と [[OCR品質確認ノート]] を「OCR全文70冊完了・検索索引更新済み・public-info-basedは原典OCRで再確認可能」の状態へ更新。概念ハブとして [[概念/ヒューリスティクス]]／[[概念/ゲーム理論]]／[[概念/5W1H]]／[[概念/5W3H]]／[[概念/ストレス]]／[[概念/不安]]／[[概念/学習管理ダッシュボード]] を追加し、[[概念/TOC]] を [[概念/制約理論（TOC）]] の別名入口として追加。[[概念/概念インデックス]] と [[wiki/hot]] に導線を反映。
 
 - 2026-05-05 20:44 index.md を再生成（20ページ）
