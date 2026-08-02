@@ -1,7 +1,7 @@
 ---
 type: operations
 created: 2026-06-17
-updated: 2026-07-05
+updated: 2026-07-31
 tags: [書籍, Kindle, 台帳, 第二の脳]
 ---
 
@@ -14,13 +14,13 @@ Kindle PDFと読書Wikiを「第二の脳」として運用するための管理
 
 | 項目 | 状態 |
 | --- | --- |
-| Kindle PDF | 73件 |
+| Kindle PDF | 76件 |
 | 要約＆概念マップ | 全PDF分作成済み |
 | 主要入口 | [[wiki/index]], [[wiki/hot]], [[問いインデックス]] |
 | 概念入口 | [[概念/概念インデックス]] |
 | ローカル索引 | `.second-brain/second_brain.sqlite`（OCR全文込みで更新済み） |
 | 機械台帳 | `.second-brain/kindle_pdf_inventory.csv` |
-| OCR全文 | 73冊完了、失敗0件 |
+| OCR全文 | 76冊完了、失敗0件 |
 | OCR品質確認 | [[OCR品質確認ノート]] |
 | 次の重点 | `public-info-based` ページの原典OCR再確認、概念ハブの拡張 |
 
@@ -70,7 +70,7 @@ Kindle PDFと読書Wikiを「第二の脳」として運用するための管理
 | 機械台帳JSON | `.second-brain/kindle_pdf_inventory.json` | 自動処理・再生成用 |
 | 全文検索SQLite | `.second-brain/second_brain.sqlite` | Wiki本文・OCRサンプル・OCR全文のローカル検索 |
 | OCRサンプル | `.second-brain/ocr-samples/` | 少数ページOCRの品質確認 |
-| OCR全文 | `.second-brain/ocr-full/` | 70冊分のOCRテキストと処理サマリー |
+| OCR全文 | `.second-brain/ocr-full/` | 76冊分のOCRテキストと処理サマリー |
 
 検索例:
 
